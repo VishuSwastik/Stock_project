@@ -21,4 +21,4 @@ The Stock Tracker Dashboard is a web application that allows users to monitor st
 - Alpha Vantage API
 
 
-  HOSTING LINK:
+  HOSTING LINK: https://vishuswastik.github.io/Stock_project/
